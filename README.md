@@ -1,28 +1,28 @@
-## Olá, meu nome é Marllon! 👾
+## <p align="center"> Hey there! ✌️</p>
 
-- 💻 Atualmente estou estudando HTML/CSS e JavaScript.
-- ✉️ Email para contato: marllonlaborne@gmail.com
-- 🧙 Pronomes: ele/dele.
-<div>
-  <a href="https://github.com/marllonlaborne">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marllonlaborne&show_icons=true&theme=tokyonight">
-</div>
+* **Name**: Marllon Laborne Lima
+* **Age**: 24
+* **Hobbies**: It all consists on playing video-games, watching tv shows, reading books and whatever sci-fi related.
 
-<div style="display: inline-block"><br>
-  <img align="center" alt="Marllon-HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Marllon-CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Marllon-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  
-## Contato
-
-<div>
-  <a href="https://www.instagram.com/flockie.jpg/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-  </a>
-  <a href="https://twitter.com/froackie" target="_blank">
+- 💻 I'm currently working on my projects to fullfil my portfolio.
+- 🌱 I'm always learning new things and getting a better version of me each day.
+- 📧 You can contact me at: marllonlaborne@gmail.com
+#
+<div align="center">
+  <a href="https://twitter.com/marllonalt" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+  </a>
+  <a href="https://www.linkedin.com/in/marllonlaborne/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:marllonlaborne@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/marllonlaborne">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=marllonlaborne&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllonlaborne&theme=tokyonight&layout=compact">
   </a>
 </div>
