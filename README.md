@@ -30,4 +30,4 @@
 
 ## Technologies 👨‍💻
 
-<p align="center"> HTML, CSS, JavaScript, MySQL and looking foward to learn React.</p>
+<p align="center"> HTML, CSS, JavaScript, MySQL and looking forward to learn React.</p>
