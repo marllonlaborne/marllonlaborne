@@ -4,9 +4,9 @@
 * **Age**: 24
 * **Hobbies**: It all consists on playing video-games, watching tv shows, reading books and whatever sci-fi related.
 
-- 💻 I'm currently working on my projects to fullfil my portfolio.
-- 🌱 I'm always learning new things and getting a better version of me each day.
-- 📧 You can contact me at: marllonlaborne@gmail.com
+- 🛠️ I'm currently working on my projects to fullfil my portfolio.
+- 🚀 I'm always learning new things and getting a better version of me each day.
+- 📫 You can contact me at: marllonlaborne@gmail.com
 #
 <div align="center">
   <a href="https://twitter.com/marllonalt" target="_blank">
@@ -22,7 +22,12 @@
 <br>
 <div align="center">
   <a href="https://github.com/marllonlaborne">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=marllonlaborne&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllonlaborne&theme=tokyonight&layout=compact">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=marllonlaborne&theme=codeSTACKr&show_icons=true&count_private=true&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllonlaborne&theme=codeSTACKr&layout=compact">
   </a>
 </div>
+    
+
+## Technologies 👨‍💻
+
+<p align="center"> HTML, CSS, JavaScript, MySQL and looking foward to learn React.</p>
