@@ -22,8 +22,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/marllonlaborne">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=marllonlaborne&theme=codeSTACKr&show_icons=true&count_private=true&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllonlaborne&theme=codeSTACKr&layout=compact">
+    <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marllonlaborne&theme=codeSTACKr&show_icons=true&count_private=true&include_all_commits=true">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marllonlaborne&theme=codeSTACKr&layout=compact">
   </a>
 </div>
     
