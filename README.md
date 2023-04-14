@@ -2,7 +2,7 @@
 
 * **Name**: Marllon Laborne Lima
 * **Age**: 24
-* **Hobbies**: It all consists on playing video-games, watching tv shows, reading books and whatever sci-fi related.
+* **Hobbies**: Consist on playing video-games, watching tv shows, reading books and anything sci-fi related.
 
 - 🛠️ I'm currently working on my projects to fullfil my portfolio.
 - 🚀 I'm always learning new things and getting a better version of me each day.
