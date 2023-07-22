@@ -2,16 +2,13 @@
 
 * **Name**: Marllon Laborne Lima
 * **Age**: 24
-* **Hobbies**: Consist on playing video-games, watching tv shows, reading books and anything sci-fi related.
+* **Hobbies**: video-games, watching tv shows, reading books and anything sci-fi related.
 
 - 🛠️ I'm currently working on my projects to fullfil my portfolio.
 - 🚀 I'm always learning new things and getting a better version of me each day.
 - 📫 You can contact me at: marllonlaborne@gmail.com
 #
 <div align="center">
-  <a href="https://twitter.com/marllonalt" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-  </a>
   <a href="https://www.linkedin.com/in/marllonlaborne/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -30,4 +27,4 @@
 
 ## Technologies 👨‍💻
 
-<p align="center"> HTML, CSS, JavaScript, MySQL and looking forward to learn React.</p>
+<p align="center"> HTML, CSS, JavaScript and looking forward to learn React.</p>
