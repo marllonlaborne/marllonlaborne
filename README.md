@@ -26,4 +26,4 @@
     
 ## Technologies 👨‍💻
 
-<p align="center"> HTML, CSS, JavaScript and looking forward to learn React.</p>
+<p align="center"> HTML, CSS, JavaScript and looking forward to learn React and TypeScript.</p>
