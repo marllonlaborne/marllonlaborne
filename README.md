@@ -1,7 +1,7 @@
 ## <p align="center"> Hey there! ✌️</p>
 
 * **Name**: Marllon Laborne Lima
-* **Age**: 24
+* **Age**: 25
 * **Hobbies**: video-games, watching tv shows, reading books and anything sci-fi related.
 
 - 🛠️ I'm currently working on my projects to fullfil my portfolio.
