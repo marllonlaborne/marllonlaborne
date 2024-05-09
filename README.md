@@ -33,12 +33,11 @@ async user.index({
 return response.status(201).send();
 ```
 
-## Curiosities
+## About me
 
 - 🚀  I am currently working on new projects and works for my portfolio.
 - 🌿  Always learning new things and getting a better version of me each day.
 - ✉️  You can contact me at: marllonlaborne@gmail.com.
-- 
 
 ## Technologies
 
