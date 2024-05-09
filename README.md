@@ -1,29 +1,63 @@
-## <p align="center"> Hey there! ✌️</p>
+## <p align="center"> Hey there! ˚˖𓍢ִ໋🧚🏻₊</p>
 
-* **Name**: Marllon Laborne Lima
-* **Age**: 25
-* **Hobbies**: videogames, watching tv shows, reading books and anything sci-fi related.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=12EF01&center=true&random=false&width=1000&lines=Hello+world!;You+can+call+me+Marllon...;I'm+a+front-end+developer!)](https://git.io/typing-svg)
 
-- 🛠️ I'm currently working on my projects to fullfil my portfolio.
-- 🚀 Always learning new things and getting a better version of me each day.
-- 📫 You can contact me at: marllonlaborne@gmail.com
-#
-<div align="center">
-  <a href="https://www.linkedin.com/in/marllonlaborne/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+<samp>
+  <p align="center">
+    <a href="mailto:marllonlaborne@gmail.com" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=12EF01">
+    </a>
+    <a href="https://www.instagram.com/marllonlab/" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=12EF01">
+    </a>
+    <a href="https://www.linkedin.com/in/marllonlaborne/" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=12EF01">
+    </a>
+  </p>
+</samp>
+
+```javascript
+async user.index({
+  name: 'Marllon',
+  surname: 'Laborne Lima',
+  age: 25,
+  birthday: '23/12',
+  hobbies: Playing video games, coding, exercising and reading books',
+  formation: [
+    ['Análise e Desenvolvimento de Sistemas', 'UniCesumar'],
+  ],
+  location: 'Paranaguá, Paraná',
+  nationality: 'Brazilian'
+});
+
+return response.status(201).send();
+```
+
+## Curiosities
+
+- 🚀  I am currently working on new projects and works for my portfolio.
+- 🌿  Always learning new things and getting a better version of me each day.
+- ✉️  You can contact me at: marllonlaborne@gmail.com.
+- 
+
+## Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,react,nodejs,expressjs,c,cs,java,mysql,git&perline=9" />
   </a>
-  <a href="mailto:marllonlaborne@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+</p>
 
-<br>
+## Github Stats
 
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=marllonlaborne&theme=codeSTACKr&show_icons=true&count_private=true&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllonlaborne&theme=codeSTACKr&layout=compact">
-</div>
+  <img 
+    height="130em" 
+    src="https://github-readme-stats.vercel.app/api?username=marllonlaborne&theme=merko&show_icons=true&count_private=true&include_all_commits=true"
+    >
     
-## Technologies 👨‍💻
-
-<p align="center"> HTML, CSS, JavaScript and looking forward to learn React and TypeScript.</p>
+  <img
+    height="130em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marllonlaborne&theme=merko&layout=compact"
+    >
+</div>
