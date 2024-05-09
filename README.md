@@ -22,7 +22,7 @@ async user.index({
   surname: 'Laborne Lima',
   age: 25,
   birthday: '23/12',
-  hobbies: Playing video games, coding, exercising and reading books',
+  hobbies: 'Playing video games, coding, exercising and reading books',
   formation: [
     ['Análise e Desenvolvimento de Sistemas', 'UniCesumar'],
   ],
