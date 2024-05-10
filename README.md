@@ -4,15 +4,9 @@
 
 <samp>
   <p align="center">
-    <a href="mailto:marllonlaborne@gmail.com" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=12EF01">
-    </a>
-    <a href="https://www.instagram.com/marllonlab/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=12EF01">
-    </a>
-    <a href="https://www.linkedin.com/in/marllonlaborne/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=12EF01">
-    </a>
+    <a href="mailto:marllonlaborne@gmail.com" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=12EF01"></a>
+    <a href="https://www.instagram.com/marllonlab/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=12EF01"></a>
+    <a href="https://www.linkedin.com/in/marllonlaborne/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=12EF01"></a>
   </p>
 </samp>
 
