@@ -37,6 +37,6 @@ return response.status(201).send();
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,react,nodejs,expressjs,c,cs,java,mysql,git&perline=9" />
+    <img src="https://skillicons.dev/icons?i=figma,html,css,js,nodejs,expressjs,c,java,git&perline=9" />
   </a>
 </p>
