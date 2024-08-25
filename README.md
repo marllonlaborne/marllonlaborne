@@ -1,6 +1,6 @@
 ### about me
 
-I'm a front-end developer based in **Paraná, Brazil**, currently working at personal projects to fulfill my portfolio and aiming to achieve my first job at the area. Some of my hobbies include playing games, reading books, watching TV shows and exercising.
+I'm a front-end developer based in Paraná, Brazil, currently working on personal projects to build my portfolio and aiming to land my first job as a dev. My hobbies include playing games, reading, watching TV shows, and exercising.
 
 ### skills
 
