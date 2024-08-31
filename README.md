@@ -23,4 +23,4 @@ I'm a front-end developer based in Paraná, Brazil, currently working on persona
 [portfolio]() ⚠️ and [beacons.page](https://beacons.ai/marllonlaborne)
 
 **links:**<br>
-[bluesky](https://bsky.app/profile/marllonlaborne.bsky.social), [mail](mailto:marllonlaborne@gmail.com), [spotify](https://open.spotify.com/user/3hswmq1u7pfv13wmascudrlxa?si=7ae102850c654edd).
+[mail](mailto:marllonlaborne@gmail.com), [spotify](https://open.spotify.com/user/3hswmq1u7pfv13wmascudrlxa?si=7ae102850c654edd).
